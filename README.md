@@ -27,46 +27,58 @@
 
 ---
 
-### 💫 About Me
+### 💫 Profile Overview
 
-- 🎓 **Education:** Software Engineering Student at **FPT University Ho Chi Minh City**.
-- 💡 **Passion:** Developing clean UI/UX, optimizing code performance, and applying architectural best practices.
-- 🚀 **Current Focus:** Deepening my knowledge in **C# / .NET & Go** and building enterprise-grade applications.
-- 🎯 **Goal:** Seeking a junior developer position or internship to contribute to impactful software projects.
-- 🌟 **Product Mindset:** Crafting intuitive experiences that truly solve user pain points.
-- 📐 **Clean Architecture:** Writing readable, maintainable, and highly extensible code.
-- 🤝 **Team Player:** Valuing open communication, continuous feedback, and high accountability.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🎓 About Me</h4>
+      <ul>
+        <li><b>Education:</b> Software Engineering Student at <b>FPT University HCMC</b>.</li>
+        <li><b>Passion:</b> Building clean UI/UX and optimizing backend performance.</li>
+        <li><b>Current Focus:</b> Deepening knowledge in <b>C# / .NET & Go</b>.</li>
+        <li><b>Goal:</b> Seeking a junior developer role or internship.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🌟 Core Strengths</h4>
+      <ul>
+        <li><b>Product Mindset:</b> Crafting intuitive experiences that solve real user problems.</li>
+        <li><b>Clean Architecture:</b> Writing readable, maintainable, and extensible code.</li>
+        <li><b>Team Collaboration:</b> Valuing clear communication, feedback, and accountability.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h4>💻 Languages & Game</h4>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br/><br/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /><br/><br/>
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp" /><br/><br/>
-      <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </td>
-    <td valign="top" width="33%">
-      <h4>⚡ Frameworks & Libs</h4>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /><br/><br/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /><br/><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /><br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br/><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-    <td valign="top" width="34%">
-      <h4>🗄️ Databases & Storage</h4>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br/><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br/><br/>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-    </td>
-  </tr>
-</table>
+- **💻 Languages & Game Development**
+  <p align="left">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />&nbsp;
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp" />&nbsp;
+    <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />&nbsp;
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </p>
+
+- **⚡ Frameworks & Libraries**
+  <p align="left">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />&nbsp;
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />&nbsp;
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </p>
+
+- **🗄️ Databases & Storage**
+  <p align="left">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  </p>
 
 ---
 
