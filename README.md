@@ -67,8 +67,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Thẻ thông tin chi tiết với theme tokyonight hiện đại -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donotwaitx&theme=tokyonight" alt="GitHub Profile Summary" />
+  <!-- Thẻ thông tin chi tiết với theme sáng mặc định -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donotwaitx&theme=default" alt="GitHub Profile Summary" />
 </div>
 
 <br />
@@ -78,10 +78,10 @@
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" valign="middle">
-        <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donotwaitx&theme=tokyonight" alt="Repositories by Language" />
+        <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donotwaitx&theme=default" alt="Repositories by Language" />
       </td>
       <td align="center" valign="middle">
-        <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donotwaitx&theme=tokyonight" alt="GitHub Stats" />
+        <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donotwaitx&theme=default" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
@@ -90,7 +90,7 @@
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=donotwaitx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=donotwaitx&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
