@@ -22,6 +22,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=donotwaitx&style=for-the-badge&label=Profile+views&color=0e75b6" alt="Profile views" />
+</p>
+
 ---
 
 ### About me
