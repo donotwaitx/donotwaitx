@@ -67,13 +67,16 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0" cellpadding="8" cellspacing="0">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donotwaitx&theme=default" alt="GitHub Profile Summary" />
+  <br /><br />
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td align="center" valign="top">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=donotwaitx&show_icons=true&theme=default&border_radius=8" alt="GitHub Stats" />
+      <td align="center" valign="middle">
+        <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donotwaitx&theme=default" alt="Repositories by Language" />
       </td>
-      <td align="center" valign="top">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donotwaitx&layout=compact&theme=default&border_radius=8" alt="Top Languages" />
+      <td align="center" valign="middle">&nbsp;&nbsp;</td>
+      <td align="center" valign="middle">
+        <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donotwaitx&theme=default" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
