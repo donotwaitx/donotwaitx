@@ -67,30 +67,18 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Thẻ thông tin chi tiết với theme sáng mặc định -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donotwaitx&theme=default" alt="GitHub Profile Summary" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Bảng xếp cạnh nhau các thẻ thống kê -->
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="8" cellspacing="0">
     <tr>
-      <td align="center" valign="middle">
-        <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donotwaitx&theme=default" alt="Repositories by Language" />
+      <td align="center" valign="top">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=donotwaitx&show_icons=true&theme=default&border_radius=8" alt="GitHub Stats" />
       </td>
-      <td align="center" valign="middle">
-        <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donotwaitx&theme=default" alt="GitHub Stats" />
+      <td align="center" valign="top">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donotwaitx&layout=compact&theme=default&border_radius=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=donotwaitx&theme=default&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donotwaitx&theme=default&border_radius=8" alt="GitHub Streak" />
 </div>
 
 ---
@@ -98,7 +86,7 @@
 ### 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/donotwaitx/donotwaitx/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/donotwaitx/donotwaitx/output/snake.svg" alt="Snake animation" width="80%" />
 </div>
 
 <br />
