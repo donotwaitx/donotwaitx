@@ -78,7 +78,7 @@
     </tr>
   </table>
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donotwaitx&theme=default&border_radius=8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=donotwaitx&theme=default&border_radius=8" alt="GitHub Streak" />
 </div>
 
 ---
