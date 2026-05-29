@@ -1,37 +1,76 @@
 <div align="center">
-  <img align="center" height="150" src="https://avatars.githubusercontent.com/u/81946953?v=4" alt="Profile Picture" />
+  <img height="150" src="https://avatars.githubusercontent.com/u/81946953?v=4" alt="Le Hoang Trong" />
 </div>
 
-<h2 align="center">Hi 👋! My name is Lê Hoàng Trọng</h2>
+<h1 align="center">Hi, I'm Lê Hoàng Trọng</h1>
 
-- 🔭 I’m currently study on **FPT University Ho Chi Minh**
-- 💌 How to reach me **lehoangtrongcsgl@gmail.com**
-- 🌱 I’m currently learning **C#**
-###
+<h3 align="center">Software Engineering Student | Full-stack Developer in Progress</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:lehoangtrongcsgl@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/refs/heads/master/icons/google-gmail.svg" alt="Le Hoang Trong" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tronglehoang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/refs/heads/master/icons/linkedin-icon.svg" alt="tronglehoang" height="30" width="40" /></a>
-<a href="https://www.facebook.com/coupstrong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Le Hoang Trong" height="30" width="40" /></a>
+<p align="center">
+  I enjoy turning ideas into clean, usable products with thoughtful interfaces, solid logic, and a strong learning mindset.
 </p>
 
-###
+<p align="center">
+  <a href="mailto:lehoangtrongcsgl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lehoangtrongcsgl%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/tronglehoang/">
+    <img src="https://img.shields.io/badge/LinkedIn-tronglehoang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://donotwaitx.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-donotwaitx.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-<img src="https://raw.githubusercontent.com/lehoangtrong/lehoangtrong/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### About me
+
+- Studying at **FPT University Ho Chi Minh City**
+- Building a strong foundation across **frontend, backend, and software design**
+- Currently learning and sharpening **C#**
+- Interested in clean UI, maintainable code, and practical product thinking
+- Open to internship and junior developer opportunities
+
+### What I bring
+
+- **Product mindset:** I care about whether a feature is useful, clear, and easy to use.
+- **Engineering discipline:** I prefer readable code, simple structure, and steady improvement.
+- **Fast learning:** I am comfortable picking up new tools and applying them through real projects.
+- **Team spirit:** I value clear communication, feedback, and responsibility.
+
+### Tech stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp" />
+</p>
+
+### GitHub activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donotwaitx&theme=default" alt="GitHub Profile Summary" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donotwaitx&theme=default" alt="Repositories by Language" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donotwaitx&theme=default" alt="GitHub Stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=donotwaitx&theme=default&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donotwaitx/donotwaitx/output/snake.svg" alt="Snake animation" />
+</p>
