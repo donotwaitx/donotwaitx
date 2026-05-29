@@ -86,10 +86,10 @@
 
 ---
 
-### 🐍 Contribution Activity
+### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/donotwaitx/donotwaitx/output/snake.svg" alt="Snake animation" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=donotwaitx&theme=github-light" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 <br />
